@@ -1,0 +1,157 @@
+.contact_top_div{
+position:fixed;
+display:none;
+z-index:9999;
+-webkit-animation: animate 1s ease;
+-moz-animation: animate 1s ease;
+-ms-animation: animate 1s ease;
+-o-animation: animate 1s ease;
+transition: animate 1s ease;
+//bottom:244.5px;
+//margin-top: 244.5px;
+//top:50%;
+width:400px;
+background-color:#FFFFFF;
+//background : url('../image/blue.jpg')0px 0px repeat;
+box-shadow: 0px 3px 5px 0px #000000;
+}
+#contact_form_div
+{
+margin-left:15px;
+}
+#cont_us
+{
+position:relative;
+background-color:#41a2cd;
+border:2px;
+height:40px;
+
+//background: url('../image/blue.jpg')0px 0px repeat;
+color:white;
+}
+#cont_us .cont_close
+{
+width:20px;
+float:right;
+margin-right:25px;
+}
+.contact_button{
+display:none;
+position:fixed;
+height:200px;
+//margin-top: -50px;
+//top:50%;
+//bottom:0px;
+//top:0px;
+z-index: 1;
+left:0px;
+
+}
+#cont_us #cont_head
+ {
+ position:absolute;
+ padding:0 5px 5px 5px;
+ font-weight:bold;
+ text-shadow: 0 1px 0 #b19e04;
+ float:left;
+ font-size:15px;
+ margin-top:5px;
+ }
+
+ h1#cont_head_id
+ {
+ margin-left:-12px;
+ font-size:25px;
+ color:#FFFFFF;
+ }
+ #cont_td
+ {
+ border:none;
+ 
+ }
+
+ table#contact_table tr#cont_tr  td#cont_td input#cont_name
+ {
+ border-radius:4px;
+ padding:3px;
+ padding-left:6px;
+ border:2px inset;
+ width:225px;
+ margin-left:45px;
+ height:25px;
+ margin-top:10px;
+  }
+textarea#cont_textarea
+ {
+ 
+ border-radius:4px;
+ padding:3px;
+ padding-left:6px;
+ border:2px inset;
+font-size:15px;
+ width:225px;
+ height:80px;
+ margin-left:45px;
+}
+
+input#cont_email_id
+ {
+ 
+ border-radius:4px;
+ padding:3px;
+ padding-left:6px;
+ border:2px inset;
+ width:225px;
+ margin-left:45px;
+  height:25px;
+ }
+ div#data_of_contact table#contact_table input#cont_submit {
+    background:#41a2cd;
+    border-top: 1px solid #a3bac9;
+   -webkit-border-radius: 12px;
+   -moz-border-radius: 12px;
+    border-radius: 5px;
+    padding: 6.5px 12px;
+	font-size: 13px;
+    font-family: Georgia, serif;
+    font-weight:bold;
+	text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+   
+    margin-left:45px;
+	margin-bottom:10px;
+	
+   }
+div#data_of_contact table#contact_table input#cont_submit:hover {
+   border-top-color: #28597a;
+   background: #008cd3;
+   border-color:#ccc;
+   color: #ccc;
+   }
+div#data_of_contact table#contact_table input#cont_submit:active {
+   border-top-color: #3284ba;
+   background: #008cd3;
+   }
+table#contact_table
+{
+margin-top:6px;
+}
+table#contact_table tr#cont_tr  input#cont_email_id
+{
+margin-bottom:1em;
+}
+table#contact_table tr#cont_tr  input#cont_name
+{
+height: auto;
+margin-bottom:1em;
+}
+table#contact_table tr#cont_tr  textarea#cont_textarea
+{
+margin-bottom:1em;
+}
+
+#top-tbl
+{
+margin-top:10px;
+text-align:center;
+}
