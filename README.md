@@ -1,4 +1,4 @@
-# Contact Popup
+# Contact Popup WordPress Plugin
 
 It's a simple contact form plugin that required no effort. Contact Popup plugin comes with Advance Form Builder that will help you to build online contact form according to your requirement and embed in your site, and the existing from get replaced by your new form. In order to setup advance form, you need to build form and put the embed code snippet on your website. If you want it to be available accros all pages, you can setup tabbed widget or Embed form on your site(iframe code), that will show as a small tab on side of screen and will open up form when clicked. You can also setup an WordPress Shortcode which will put a form directly on your page/post/widget(for example Contact Us page). This plugin will also let collect feedback and requested directly from your website. When you create a form from Advance Form Builder you automatically get help desk. Any entries sent from this form get automatically converted into a ticket that you can get working on from your account.
 
